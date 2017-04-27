@@ -1,0 +1,206 @@
+#header {
+    color: white; 
+    background-color: #9381AE;
+    opacity: 0.95;
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    border: solid 18px #857C92;
+    width: 80%;
+    margin: auto;
+}
+
+#header img {
+    width: 100%;
+    z-index: 1;
+}
+
+body {
+    background-color: #B2BABB;
+    opacity: 0.99;
+    background-image: url("../images/moonface.png");
+}
+
+
+.title {
+    font-family: monospace;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.innertitle {
+    font-family: monospace;
+    text-align: center;
+    font-size: 25px;
+}
+
+.topnav {
+    background-color: #071034;
+    border: solid 18px #071034;
+    margin: auto;
+    width: 80%;
+    opacity: 0.8;
+}
+
+.topnav ul a {
+    margin: 5px;
+    width: 20px;
+}
+
+.topnav li {
+    display: inline-block;
+    border-right: 1px solid #bbb;
+}
+
+.topnav li:last-child {
+    display: inline-block;
+    border-right: none;
+}
+
+.topnav li a {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+.alone {
+    background: #857C92 url("../images/wolfnwoman.png") no-repeat right;
+    width: 80%;
+    margin: auto;
+    border: solid 18px #9381AE;
+    font-size: 20px;
+    color: white;
+}
+
+ .section1 {
+     background-color: #857C92; 
+     width: 80%;
+     margin: auto;
+     font-size: 15px;
+     border: solid 18px #9381AE;
+}
+ .section2 {
+     background-color: #857C92; 
+     width: 80%;
+     margin: auto;
+     font-size: 15px;
+     text-align: center;
+     border: solid 18px #9381AE;
+}
+
+.insidep {
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    padding: 10px 10px 10px 10px;
+}
+
+.section2 img {
+    width: 500px;
+    z-index: 3;
+    opacity: 0.7;
+}
+
+#footer {
+        background-color: #857C92;
+        color: white;
+        font-size: 12px;
+        font-family: monospace;
+        text-align: center;
+        width: 80%;
+        margin: auto;
+        border: solid 18px #9381AE;
+}
+
+#poetry {
+    background: url("../images/flock.png") #B2BABB;
+    opacity: 0.99;
+}
+
+
+#headerp {
+    color: white; 
+    background-color: #9381AE;
+    opacity: 0.95;
+    font-size: 24px;
+    text-align: center;
+    font-family: monospace;
+    border: solid 18px #857C92;
+    width: 80%;
+    margin: auto;
+}
+
+.sectionp {
+    color: white;
+    background-color: #857C92; 
+    width: 80%;
+    margin: auto;
+    font-size: 15px;
+    border: solid 18px #9381AE;
+    background-image: url("../images/bird4.png");
+}
+
+.sectionw {
+    color: Beige;
+    background-color: #857C92; 
+    width: 80%;
+    margin: auto;
+    font-size: 15px;
+    border: solid 18px #9381AE;
+}
+
+.sectionw {
+    width: 80%;
+    height: 800px;
+    overflow: scroll;
+}
+
+#writings {
+    background: url("../images/birdtree.png") #B2BABB;
+    opacity: 0.99;
+}
+
+#headerw {
+    color: Beige; 
+    background-color: #9381AE;
+    opacity: 0.95;
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    border: solid 18px #857C92;
+    width: 80%;
+    margin: auto;
+}
+
+.text {
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
